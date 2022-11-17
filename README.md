@@ -1,6 +1,6 @@
 # TDD
 
-> This project is about implemeting a with some methods, but you will do it by doing test-driven development (TDD). be used for database related projects at Microverse.
+> This project is about implemeting a class with some methods and it entails the use of test-driven development (TDD).
 
 
 ## Getting Started
