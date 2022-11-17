@@ -1,15 +1,18 @@
 # TDD
 
-> This template should be used for database related projects at Microverse.
+> This project is about implemeting a with some methods, but you will do it by doing test-driven development (TDD). be used for database related projects at Microverse.
 
 
 ## Getting Started
+- Start by cloning the project
 
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+## Setup
+- Git clone https://github.com/asnganje/TDD.git
+- cd into the cloned repo
+- cd `tdd-project`
+- Run `bundle install` to install necessary dependencies
+- Run `ruby solver.rb` to start the app
+- run `rubocop .` to check for linters
 
 
 ## Authors
